@@ -22,8 +22,3 @@ jobs:
           # Create 'public' folder and move only the 'pack.zip' file to it
           mkdir -p public
           mv pack.zip public/
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
-        with:
-          directory: ./public # Deploy only the contents of 'public/', which contains only pack.zip
