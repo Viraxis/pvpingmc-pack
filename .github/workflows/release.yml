@@ -14,14 +14,16 @@ jobs:
 
       - name: Create texture pack ZIP
         run: |
+          # Create the ZIP file and exclude unnecessary files
           zip -r pack.zip . -x ".git/*" ".github/*" "*.yml" "README.md"
 
-      - name: Create GitHub Release
-        uses: softprops/action-gh-release@v2
+      - name: Move only pack.zip to a folder for deployment
+        run: |
+          # Create 'public' folder and move only the 'pack.zip' file to it
+          mkdir -p public
+          mv pack.zip public/
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
         with:
-          files: pack.zip
-          tag_name: latest
-          name: "pack.zip"
-          body: "Automatically generated zip of the texture pack."
-          draft: false
-          prerelease: false
+          directory: ./public # Deploy only the contents of 'public/', which contains only pack.zip
