@@ -21,7 +21,7 @@ jobs:
         with:
           files: pack.zip
           tag_name: latest
-          name: "Latest Pack Release"
+          name: "pack.zip"
           body: "Automatically generated zip of the texture pack."
           draft: false
           prerelease: false
