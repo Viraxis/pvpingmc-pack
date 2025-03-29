@@ -1,0 +1,211 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "logos/pvpingmc.png",
+      "ascent": 8,
+      "height": 128,
+      "chars": [
+        "\uF001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "logos/prison.png",
+      "ascent": 30,
+      "height": 112,
+      "chars": [
+        "\uF002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/global/owner.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/global/manager.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/global/admin.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/global/sr_mod.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/global/mod.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/global/helper.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/kingpin.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/rebel.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/bandit.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/thug.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/crook.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/outlaw.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/felon.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/convict.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "ranks/prison/inmate.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/exclamation_background.png",
+      "ascent": 8,
+      "width": 8,
+      "chars": [
+        "\uF018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/spacer.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": [
+        "\uF019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/spacer.png",
+      "ascent": -32768,
+      "height": -3,
+      "chars": [
+        "\uF020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/exclamation.png",
+      "ascent": 8,
+      "width": 8,
+      "chars": [
+        "\uF021"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/chat_bubble_background.png",
+      "ascent": 8,
+      "width": 8,
+      "chars": [
+        "\uF022"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/chat_bubble.png",
+      "ascent": 8,
+      "width": 8,
+      "chars": [
+        "\uF023"
+      ]
+    }
+  ]
+}

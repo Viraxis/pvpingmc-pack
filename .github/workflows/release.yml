@@ -1,0 +1,27 @@
+name: Build Pack
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create texture pack ZIP
+        run: |
+          zip -r pack.zip . -x ".git/*" ".github/*" "*.yml" "README.md"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: pack.zip
+          tag_name: latest
+          name: "Latest Pack Release"
+          body: "Automatically generated zip of the texture pack."
+          draft: false
+          prerelease: false
