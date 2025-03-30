@@ -15,13 +15,15 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4.0.3
         with:
-          options: '--output=pack.zip --input=.'
-          packsquash_version: 'latest'
+          packsquash_version: latest
+          options: |
+            pack_directory = '.' # or specify your pack directory if it's not at the root
+            output_file_path = '/tmp/pack.zip'
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          files: pack.zip
+          files: /tmp/pack.zip
           tag_name: latest
           name: "pack.zip"
           body: "Automatically generated and optimized zip of the texture pack."
