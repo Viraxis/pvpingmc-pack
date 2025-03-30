@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run PackSquash
-        uses: Compressions/PackSquash-action@v1
+        uses: ComunidadAylas/PackSquash-action@v4.0.3
         with:
           input: .
           output: pack.zip
