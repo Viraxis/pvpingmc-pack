@@ -15,8 +15,8 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4.0.3
         with:
-          input: .
-          output: pack.zip
+          options: '--output=pack.zip --input=.'
+          packsquash_version: 'latest'
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
