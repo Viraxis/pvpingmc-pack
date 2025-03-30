@@ -12,9 +12,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create texture pack ZIP
-        run: |
-          zip -r pack.zip . -x ".git/*" ".github/*" "*.yml" "README.md"
+      - name: Run PackSquash
+        uses: Compressions/PackSquash-action@v2
+        with:
+          input: .
+          output: pack.zip
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
@@ -22,6 +24,6 @@ jobs:
           files: pack.zip
           tag_name: latest
           name: "pack.zip"
-          body: "Automatically generated zip of the texture pack."
+          body: "Automatically generated and optimized zip of the texture pack."
           draft: false
           prerelease: false
