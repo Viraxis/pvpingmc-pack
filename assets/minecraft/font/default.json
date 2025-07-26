@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "chat_emblems/blue_coin.png",
+      "file": "chat_emblems/golden_coin.png",
       "ascent": 8,
       "height": 9,
       "chars": [
