@@ -11,11 +11,38 @@
     },
     {
       "type": "bitmap",
+      "file": "logos/pvpingmc.png",
+      "ascent": 8,
+      "height": 128,
+      "chars": [
+        "\uF002"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "logos/skyblock.png",
       "ascent": 30,
       "height": 112,
       "chars": [
-        "\uF002"
+        "\uF003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "logos/prison.png",
+      "ascent": 30,
+      "height": 112,
+      "chars": [
+        "\uF004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "logos/skyblock.png",
+      "ascent": 30,
+      "height": 112,
+      "chars": [
+        "\uF005"
       ]
     },
     {
@@ -24,7 +51,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\uF003"
+        "\uF006"
       ]
     },
     {
@@ -33,7 +60,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\uF004"
+        "\uF007"
       ]
     },
     {
@@ -42,7 +69,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\uF005"
+        "\uF008"
       ]
     },
     {
@@ -51,7 +78,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\uF006"
+        "\uF009"
       ]
     },
     {
@@ -60,7 +87,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\uF007"
+        "\uF010"
       ]
     },
     {
@@ -69,88 +96,16 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\uF008"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/kingpin.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF009"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/rebel.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF010"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/bandit.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
         "\uF011"
       ]
     },
     {
       "type": "bitmap",
-      "file": "ranks/prison/thug.png",
+      "file": "chat_emblems/green_cash.png",
       "ascent": 8,
       "height": 9,
       "chars": [
         "\uF012"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/crook.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF013"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/outlaw.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF014"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/felon.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF015"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/convict.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF016"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "ranks/prison/inmate.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF017"
       ]
     },
     {
