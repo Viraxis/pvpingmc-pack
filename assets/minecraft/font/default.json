@@ -119,24 +119,6 @@
     },
     {
       "type": "bitmap",
-      "file": "chat_emblems/sword.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF015"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "chat_emblems/skull.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF016"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "chat_emblems/exclamation_background.png",
       "ascent": 8,
       "width": 8,
