@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "chat_emblems/green_cash.png",
+      "file": "chat_emblems/cash.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -110,11 +110,20 @@
     },
     {
       "type": "bitmap",
-      "file": "chat_emblems/golden_coin.png",
+      "file": "chat_emblems/coin.png",
       "ascent": 8,
       "height": 9,
       "chars": [
         "\uF013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/swords.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF014"
       ]
     },
     {
@@ -124,6 +133,15 @@
       "height": 9,
       "chars": [
         "\uF015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "chat_emblems/skull.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF016"
       ]
     },
     {
