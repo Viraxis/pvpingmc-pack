@@ -119,15 +119,6 @@
     },
     {
       "type": "bitmap",
-      "file": "chat_emblems/sword.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\uF015"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "chat_emblems/skull.png",
       "ascent": 8,
       "height": 9,
