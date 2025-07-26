@@ -110,6 +110,15 @@
     },
     {
       "type": "bitmap",
+      "file": "chat_emblems/blue_coin.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF013"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "chat_emblems/exclamation_background.png",
       "ascent": 8,
       "width": 8,
