@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "chat_emblems/cash.png",
+      "file": "chat_emblems/newcash.png",
       "ascent": 8,
       "height": 9,
       "chars": [
