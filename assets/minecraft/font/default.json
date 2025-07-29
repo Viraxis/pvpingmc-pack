@@ -11,9 +11,9 @@
     },
     {
       "type": "bitmap",
-      "file": "logos/pvpingmc.png",
-      "ascent": 8,
-      "height": 128,
+      "file": "logos/pvpingmc-text.png",
+      "ascent": 14,
+      "height": 27,
       "chars": [
         "\uF002"
       ]
