@@ -137,7 +137,7 @@
     },
     {
       "type": "bitmap",
-      "file": "chat_emblems/skull.png",
+      "file": "chat_emblems/skullnew.png",
       "ascent": 8,
       "height": 9,
       "chars": [
