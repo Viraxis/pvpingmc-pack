@@ -210,7 +210,7 @@
     {
       "type": "bitmap",
       "file": "logos/prison.png",
-      "ascent": 76,
+      "ascent": 78,
       "height": 116,
       "chars": [
         "\uF025"
