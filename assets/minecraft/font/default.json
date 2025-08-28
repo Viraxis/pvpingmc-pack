@@ -201,10 +201,37 @@
     {
       "type": "bitmap",
       "file": "logos/skyblock.png",
-      "ascent": 8,
-      "height": 192,
+      "ascent": 76,
+      "height": 116,
       "chars": [
         "\uF024"
+      ]
+    },,
+    {
+      "type": "bitmap",
+      "file": "logos/prison.png",
+      "ascent": 76,
+      "height": 116,
+      "chars": [
+        "\uF025"
+      ]
+    },,
+    {
+      "type": "bitmap",
+      "file": "logos/factions.png",
+      "ascent": 76,
+      "height": 116,
+      "chars": [
+        "\uF026"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "logos/click-to-play.png",
+      "ascent": 36,
+      "height": 46,
+      "chars": [
+        "\uF027"
       ]
     }
   ]
