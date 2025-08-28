@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "logos/prison.png",
+      "file": "logos/skyblock-text.png",
       "ascent": 30,
       "height": 112,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "logos/skyblock.png",
+      "file": "logos/skyblock-text.png",
       "ascent": 30,
       "height": 112,
       "chars": [
