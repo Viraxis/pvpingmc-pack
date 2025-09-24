@@ -11,7 +11,7 @@
         "when": { "ints": [12001] },
         "model": {
           "type": "model",
-          "model": "item/oak_boat"
+          "model": "item/diamond_sword"
         }
       }
     ]
