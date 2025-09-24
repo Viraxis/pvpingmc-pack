@@ -8,10 +8,17 @@
     },
     "cases": [
       {
-        "when": "treasure_key",
+        "when": "oak_boat",
         "model": {
           "type": "model",
-          "model": "item/oak_boat"
+          "model": "minecraft:item/oak_boat"
+        }
+      },
+      {
+        "when": "rainbow_glass",
+        "model": {
+          "type": "model",
+          "model": "custom:item/rainbow_glass"
         }
       }
     ]
