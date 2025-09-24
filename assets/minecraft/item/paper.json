@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/paper"
+    },
+    "cases": [
+      {
+        "when": {
+          "ints": [12001]
+        },
+        "model": {
+          "type": "model",
+          "model": "item/oak_boat"
+        }
+      }
+    ]
+  }
+}
