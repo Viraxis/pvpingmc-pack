@@ -8,10 +8,10 @@
     },
     "cases": [
       {
-        "when": { "ints": [12001] },
+        "when": "oak_boat",
         "model": {
           "type": "model",
-          "model": "item/diamond_sword"
+          "model": "item/oak_boat"
         }
       }
     ]
