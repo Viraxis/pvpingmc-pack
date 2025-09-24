@@ -1,19 +1,17 @@
 {
   "model": {
-    "type": "select",
-    "property": "custom_model_data",
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
     "fallback": {
-      "type": "model",
-      "model": "item/paper"
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
     },
     "cases": [
       {
-        "when": {
-          "ints": [12001]
-        },
+        "when": { "ints": [12001] },
         "model": {
-          "type": "model",
-          "model": "item/oak_boat"
+          "type": "minecraft:model",
+          "model": "minecraft:item/oak_boat"
         }
       }
     ]
