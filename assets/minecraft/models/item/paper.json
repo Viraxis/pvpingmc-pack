@@ -4,7 +4,7 @@
         "property": "minecraft:custom_model_data",
         "cases": [
             {
-                "when": { "strings": ["treasure_key"] },
+                "when": { "ints": [12001] },
                 "model": { "type": "minecraft:model", "model": "minecraft:item/custom/treasure_key" }
             }
         ],
