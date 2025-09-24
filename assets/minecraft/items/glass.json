@@ -11,7 +11,7 @@
         "when": "rainbow_key",
         "model": {
           "type": "model",
-          "model": "item/rainbow_key"
+          "model": "item/custom/rainbow_key"
         }
       }
     ]
