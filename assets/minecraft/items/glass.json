@@ -4,14 +4,14 @@
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "item/paper"
+      "model": "item/glass"
     },
     "cases": [
       {
-        "when": "treasure_key",
+        "when": "rainbow_key",
         "model": {
           "type": "model",
-          "model": "item/oak_boat"
+          "model": "item/rainbow_key"
         }
       }
     ]
