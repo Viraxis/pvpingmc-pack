@@ -8,14 +8,14 @@
     },
     "cases": [
       {
-        "when": "OAK_BOAT",
+        "when": "oak_boat",
         "model": {
           "type": "model",
           "model": "minecraft:item/oak_boat"
         }
       },
       {
-        "when": "RAINBOW_GLASS",
+        "when": "rainbow_glass",
         "model": {
           "type": "model",
           "model": "custom:item/rainbow_glass"
