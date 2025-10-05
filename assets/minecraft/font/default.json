@@ -56,6 +56,15 @@
     },
     {
       "type": "bitmap",
+      "file": "custom:ranks/global/developer.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF017"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "custom:ranks/global/manager.png",
       "ascent": 8,
       "height": 9,
