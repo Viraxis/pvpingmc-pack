@@ -12,8 +12,8 @@
     {
       "type": "bitmap",
       "file": "custom:logos/skyblock-text.png",
-      "ascent": 14,
-      "height": 27,
+      "ascent": 30,
+      "height": 112,
       "chars": [
         "\uF002"
       ]
@@ -21,8 +21,8 @@
     {
       "type": "bitmap",
       "file": "custom:logos/skyblock-text.png",
-      "ascent": 30,
-      "height": 112,
+      "ascent": 14,
+      "height": 27,
       "chars": [
         "\uF003"
       ]
