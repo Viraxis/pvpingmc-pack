@@ -233,6 +233,24 @@
       "chars": [
         "\uF027"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:ranks/global/partner.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF028"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:ranks/global/media.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uF029"
+      ]
     }
   ]
 }
