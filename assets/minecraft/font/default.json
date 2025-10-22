@@ -368,6 +368,42 @@
       "chars": [
         "\uE1D6"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/anvil/name_of_player.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\uE1DA"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/anvil/price.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\uE1DB"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/27.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": [
+        "\uE1CA"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/54.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": [
+        "\uE0DA"
+      ]
     }
   ]
 }
