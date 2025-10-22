@@ -20,13 +20,6 @@
           "type": "model",
           "model": "custom:item/rainbow_glass"
         }
-      },
-      {
-        "threshold": "10007",
-        "model": {
-          "type": "model",
-          "model": "custom:item/rainbow_glass"
-        }
       }
     ]
   }

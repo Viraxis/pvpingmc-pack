@@ -251,6 +251,159 @@
       "chars": [
         "\uF029"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/default.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/halloween.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1CD"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/neo_tokyo.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/cerulean_blue.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1CE"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/scooter.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/munsell_blue.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/spring_frost.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/malachite.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/dark_orchid.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1CF"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/permanent_geranium_lake.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/galliano.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/lipstick.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/backpack/rose_red.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": [
+        "\uE1D6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/anvil/name_of_player.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\uE1DA"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/anvil/price.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\uE1DB"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/27_menu.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": [
+        "\uE1CA"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom:guis/54_menu.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": [
+        "\uE0DA"
+      ]
     }
   ]
 }
