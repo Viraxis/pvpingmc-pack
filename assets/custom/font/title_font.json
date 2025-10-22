@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "custom:guis/title_font_white.png",
+      "file": "custom:guis/title_font.png",
       "ascent": 17,
       "chars": [
         "ABCDEFGHIJKLMNOPQRSTUVWXY",
