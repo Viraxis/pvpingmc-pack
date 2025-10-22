@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "levity_font:all/title_font_white.png",
+      "file": "custom:guis/title_font_white.png",
       "ascent": 17,
       "chars": [
         "ABCDEFGHIJKLMNOPQRSTUVWXY",
@@ -18,7 +18,7 @@
     },
     {
       "type": "bitmap",
-      "file": "levity_font:all/zero_width_space.png",
+      "file": "custom:guis/zero_width_space.png",
       "ascent": -32768,
       "chars": [
         "*"
@@ -27,7 +27,7 @@
     },
     {
       "type": "bitmap",
-      "file": "levity_font:all/zero_width_space.png",
+      "file": "custom:guis/zero_width_space.png",
       "ascent": -32768,
       "chars": [
         "("
@@ -36,7 +36,7 @@
     },
     {
       "type": "bitmap",
-      "file": "levity_font:all/zero_width_space.png",
+      "file": "custom:guis/zero_width_space.png",
       "ascent": -32768,
       "chars": [
         ")"
@@ -45,7 +45,7 @@
     },
     {
       "type": "bitmap",
-      "file": "levity_font:all/zero_width_space.png",
+      "file": "custom:guis/zero_width_space.png",
       "ascent": -32768,
       "chars": [
         "["

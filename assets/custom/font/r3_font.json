@@ -2,8 +2,8 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "levity_font:all/slot_cover_font.png",
-      "ascent": -22,
+      "file": "custom:guis/slot_cover_font.png",
+      "ascent": -40,
       "chars": [
         "10"
       ],
@@ -11,8 +11,8 @@
     },
     {
       "type": "bitmap",
-      "file": "levity_font:all/item_rarities.png",
-      "ascent": -23,
+      "file": "custom:guis/item_rarities.png",
+      "ascent": -41,
       "chars": [
         "23456789AB"
       ],
@@ -26,7 +26,7 @@
     },
     {
       "type": "bitmap",
-      "file": "levity_font:all/zero_width_space.png",
+      "file": "custom:guis/zero_width_space.png",
       "ascent": -32768,
       "chars": [
         "!"
@@ -35,7 +35,7 @@
     },
     {
       "type": "bitmap",
-      "file": "levity_font:all/zero_width_space.png",
+      "file": "custom:guis/zero_width_space.png",
       "ascent": -32768,
       "chars": [
         "@"
