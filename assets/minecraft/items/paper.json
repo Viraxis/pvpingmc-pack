@@ -22,10 +22,9 @@
         }
       },
       {
-        "when": "rainbow_glass",
+        "threshold": "10007",
         "model": {
           "type": "model",
-          "threshold": "10007",
           "model": "custom:guis/zero_width_space.png"
         }
       }
