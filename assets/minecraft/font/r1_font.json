@@ -1,0 +1,55 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/slot_cover_font.png",
+      "ascent": -4,
+      "chars": [
+        "10"
+      ],
+      "height": 18
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/item_rarities.png",
+      "ascent": -5,
+      "chars": [
+        "23456789AB"
+      ],
+      "height": 16
+    },
+    {
+      "type": "space",
+      "advances": {
+        " ": 1
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/zero_width_space.png",
+      "ascent": -32768,
+      "chars": [
+        "!"
+      ],
+      "height": -3
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/zero_width_space.png",
+      "ascent": -32768,
+      "chars": [
+        "@"
+      ],
+      "height": -164
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/zero_width_space.png",
+      "ascent": -32768,
+      "chars": [
+        "$"
+      ],
+      "height": -14
+    }
+  ]
+}

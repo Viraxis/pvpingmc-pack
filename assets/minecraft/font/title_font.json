@@ -1,0 +1,56 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/title_font_white.png",
+      "ascent": 17,
+      "chars": [
+        "ABCDEFGHIJKLMNOPQRSTUVWXY",
+        "Z#%-+=$.:;!/<>'0123456789"
+      ],
+      "height": 17
+    },
+    {
+      "type": "space",
+      "advances": {
+        " ": 5
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/zero_width_space.png",
+      "ascent": -32768,
+      "chars": [
+        "*"
+      ],
+      "height": -1
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/zero_width_space.png",
+      "ascent": -32768,
+      "chars": [
+        "("
+      ],
+      "height": 0
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/zero_width_space.png",
+      "ascent": -32768,
+      "chars": [
+        ")"
+      ],
+      "height": 1
+    },
+    {
+      "type": "bitmap",
+      "file": "levity_font:all/zero_width_space.png",
+      "ascent": -32768,
+      "chars": [
+        "["
+      ],
+      "height": 2
+    }
+  ]
+}
