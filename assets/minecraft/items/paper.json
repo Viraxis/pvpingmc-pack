@@ -20,6 +20,14 @@
           "type": "model",
           "model": "custom:item/rainbow_glass"
         }
+      },
+      {
+        "when": "rainbow_glass",
+        "model": {
+          "type": "model",
+          "threshold": "10007",
+          "model": "custom:guis/zero_width_space.png"
+        }
       }
     ]
   }
