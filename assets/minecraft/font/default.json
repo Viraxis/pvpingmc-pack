@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/owner.png",
+      "file": "custom:ranks/owner.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/dev.png",
+      "file": "custom:ranks/dev.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/manager.png",
+      "file": "custom:ranks/manager.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/admin.png",
+      "file": "custom:ranks/admin.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/sr_mod.png",
+      "file": "custom:ranks/sr_mod.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/mod.png",
+      "file": "custom:ranks/mod.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/helper.png",
+      "file": "custom:ranks/helper.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/partner.png",
+      "file": "custom:ranks/partner.png",
       "ascent": 8,
       "height": 9,
       "chars": [
@@ -245,7 +245,7 @@
     },
     {
       "type": "bitmap",
-      "file": "custom:ranks/global/media.png",
+      "file": "custom:ranks/media.png",
       "ascent": 8,
       "height": 9,
       "chars": [

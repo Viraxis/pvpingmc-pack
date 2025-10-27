@@ -1,26 +1,27 @@
 {
   "model": {
-    "type": "select",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/paper"
-    },
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
     "cases": [
       {
         "when": "oak_boat",
-        "model": {
-          "type": "model",
-          "model": "minecraft:item/oak_boat"
-        }
+        "model": { "type": "minecraft:model", "model": "minecraft:item/oak_boat" }
       },
       {
         "when": "rainbow_glass",
-        "model": {
-          "type": "model",
-          "model": "custom:item/rainbow_glass"
-        }
+        "model": { "type": "minecraft:model", "model": "custom:item/rainbow_glass" }
       }
-    ]
+    ],
+    "fallback": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "entries": [
+        {
+          "threshold": 10007,
+          "model": { "type": "minecraft:empty" }
+        }
+      ],
+      "fallback": { "type": "minecraft:model", "model": "minecraft:item/paper" }
+    }
   }
 }
