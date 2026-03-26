@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "custom:item/gui/reset_icon"
+    "layer0": "custom:item/reset_icon"
   }
 }
