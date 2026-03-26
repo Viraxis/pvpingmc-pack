@@ -5,23 +5,16 @@
     "index": 0,
     "cases": [
       {
-        "when": "oak_boat",
+        "when": "reset",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/oak_boat"
-        }
-      },
-      {
-        "when": "rainbow_glass",
-        "model": {
-          "type": "minecraft:model",
-          "model": "custom:item/rainbow_glass"
+          "model": "custom:item/reset_icon"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/paper"
+      "model": "minecraft:item/barrier"
     }
   }
 }
